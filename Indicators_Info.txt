@@ -1,0 +1,6 @@
+The following indicators are used to monitor American Consumer Economic health:
+1. Michigan Consumer Sentiment Index
+2. Employment (% Chg)
+3. Real Disposable Personal Income
+4. CPI (% Chg)
+
